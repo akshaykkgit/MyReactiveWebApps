@@ -3,5 +3,5 @@ spring:
   r2dbc:
     url: r2dbc:mysql://localhost::3306/test
     username: root
-    password: Plsopn1!
+    password: root
     initialization-mode: always
